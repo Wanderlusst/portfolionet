@@ -1,4 +1,4 @@
-# 📊 Portfolio Dashboard - 8byte.ai Technical Assignment
+# 📊 Portfolio Dashboard 
 
 A dynamic portfolio management system built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. This application provides real-time stock portfolio tracking with automatic data refresh, sector-wise analysis, and comprehensive financial metrics.
 
@@ -269,6 +269,5 @@ This project is created for the 8byte.ai technical assignment. All rights reserv
 
 ---
 
-**Built with ❤️ for 8byte.ai Technical Assignment**
 
 *Last updated: December 2024*
